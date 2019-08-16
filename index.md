@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 ---
 
-I haven't put anything here yet!
+I am an Electrical Engineering undergraduate student at the University of British Columbia in Vancouver, BC. You can [find more out about me here](about).
+
+[I recently started a blog](blog), chronicling some of the projects that I have been working on lately.
