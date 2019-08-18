@@ -15,6 +15,9 @@ permalink: blog
         {{ post.title | escape }}
         </a>
     </h2>
+        {% if post.featured-image %}
+        <img src="{{ post.featured-image }}" class="blog-featured-image" alt="{{ post.featured-image-alt }}"><br />
+        {% endif %}
         {{ post.excerpt }}
     </li>
     {%- endfor -%}
