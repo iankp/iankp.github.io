@@ -10,7 +10,7 @@
 
 # Site settings
 title: Ian Kellough-Pollock
-email: ian@iankp.ca
+email: web@iankp.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Ian Kellough-Pollock is an Electrical Engineering student located in Vancouver, BC.
 baseurl: "" # the subpath of your site, e.g. /blog
