@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: home
+title: Home
 ---
 
 Hello, and welcome to my website!
