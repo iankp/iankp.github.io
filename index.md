@@ -20,6 +20,5 @@ In May 2021, I will graduate with a B.A.Sc. in Electrical Engineering at
 the University of British Columbia.
 
 More information about my work experience is available on my [LinkedIn
-profile](https://www.linkedin.com/in/iankelloughpollock). I have completed my
-degree requirements and am currently available for employment.
+profile](https://www.linkedin.com/in/iankelloughpollock).
 
